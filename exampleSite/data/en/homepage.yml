@@ -18,7 +18,7 @@ features:
   title: Our Core Features
   image: "/images/comparison.PNG"
   left_side:
-  - title: Map Centric View
+  - title: Nearest Parking/Charging
     icon: tf-ion-ios-alarm-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
