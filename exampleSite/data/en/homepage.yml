@@ -2,10 +2,12 @@
 banner:
   enable: true
   title: 'Parkar : Find, Park and Charge '
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
+  content: |-
+    Where to find charging locations? Where to find HDB parking lots? TPE got jam or not? One year liao, COE got increase or not?
+
+    The answer is Parkar! Your friendly utility app made by fellow Singaporeans.
+
+    Parkar is equipped with information and news at your fingertips. You will be able to find out nearest EV charging and real time parking lots with just a snap! Join us to keep yourself updated with the latest car news, COE prices and live traffic camera feeds around Singapore.
   image: images/watch.png
   button:
     enable: true
