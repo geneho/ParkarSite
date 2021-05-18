@@ -8,9 +8,9 @@ banner:
     The answer is Parkar! Your friendly utility app made by fellow Singaporeans.
 
     Parkar is equipped with information and news at your fingertips. You will be able to find out nearest EV charging and real time parking lots with just a snap! Join us to keep yourself updated with the latest car news, COE prices and live traffic camera feeds around Singapore.
-  image: images/watch.png
+  image: "/images/iphone-12-pro.png"
   button:
-    enable: true
+    enable: false
     label: Browse All Products
     link: products
 features:
