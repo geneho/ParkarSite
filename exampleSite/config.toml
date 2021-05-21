@@ -10,12 +10,6 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = ""
-copyright = ""
-languageCode = ""
-languageName = ""
-weight = ""
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
@@ -38,14 +32,6 @@ weight = 4
 name = "Home"
 url = "/"
 weight = 1
-[[menu.main]]
-name = "Products"
-url = "products"
-weight = 2
-[[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 3
 [[menu.main]]
 name = "Review"
 pre = "#"
