@@ -91,14 +91,12 @@ testimonial:
     image: images/avater.png
     content: Now I can find where to park in town easier, simple and easy to use.
       Parents can look at traffic before heading out too! Highly recommend.
-  - name: Jonathon Andrew
-    designation: CEO, Themefisher
+  - name: Heyhohey
+    designation: PlayStore Review
     image: images/avater.png
-    content: A wonderful serenity has taken possession of my entire soul, like these
-      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
-      feel the charm of existence in this spot, which was created for the bliss of
-      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
+    content: Fantastic app, extremely convenient when I'm on the road and can't find
+      a parking space. I love that it even lets the user know how much the parking
+      fees are so a quick cross comparison can be made. Keep up the great work!
   - name: Jonathon Andrew
     designation: CEO, Themefisher
     image: images/avater.png
