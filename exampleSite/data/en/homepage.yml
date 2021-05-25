@@ -55,7 +55,7 @@ about_product:
   enable: true
   title: Why Choose Apple Watch
   items:
-  - image: "/images/traffic_cam-1.png"
+  - image: "/images/traffic_cam.png"
     title: Lorem ipsum dolor sit amet.
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
       sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
