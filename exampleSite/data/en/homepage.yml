@@ -55,10 +55,6 @@ about_product:
   enable: true
   title: Why Choose Apple Watch
   items:
-  - image: "/images/search.png"
-    title: ''
-    content: ''
-    button: ''
   - image: "/images/hdb.png"
     title: Lorem ipsum dolor sit amet.
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
@@ -77,6 +73,10 @@ about_product:
       enable: false
       label: Check Features
       link: "#"
+  - image: "/images/search.png"
+    title: ''
+    content: ''
+    button: ''
 products:
   enable: false
   title: Checkout Our All Products
