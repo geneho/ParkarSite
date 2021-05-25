@@ -74,8 +74,8 @@ about_product:
       label: Check Features
       link: "#"
   - image: "/images/search.png"
-    title: ''
-    content: ''
+    title: Search
+    content: Lorepsm Ipsum
     button: ''
 products:
   enable: false
