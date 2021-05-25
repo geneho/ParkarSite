@@ -76,7 +76,8 @@ about_product:
   - image: "/images/search.png"
     title: Lorem ipsum dolor sit amet.
     content: Lorepsm Ipsum
-    button: ''
+    button:
+      enable: false
 products:
   enable: false
   title: Checkout Our All Products
