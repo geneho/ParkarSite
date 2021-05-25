@@ -77,7 +77,7 @@ about_product:
     title: Lorem ipsum dolor sit amet.
     content: Lorepsm Ipsum
     button:
-      enable: false
+      enable: true
 products:
   enable: false
   title: Checkout Our All Products
