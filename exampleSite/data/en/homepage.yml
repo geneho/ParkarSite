@@ -78,6 +78,11 @@ about_product:
     content: Lorepsm Ipsum
     button:
       enable: false
+  - title: "/images/traffic_cam.png"
+    content: lorpesm ipsm
+    button:
+      enable: true
+    image: "/images/traffic_cam.png"
 products:
   enable: false
   title: Checkout Our All Products
