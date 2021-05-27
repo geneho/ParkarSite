@@ -83,6 +83,11 @@ about_product:
     button:
       enable: true
     image: "/images/traffic_cam.png"
+  - image: "/images/coe.png"
+    title: "/images/coe.png"
+    content: lorpsm isum
+    button:
+      enable: true
 products:
   enable: false
   title: Checkout Our All Products
