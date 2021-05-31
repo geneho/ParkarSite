@@ -81,7 +81,7 @@ about_product:
   - title: "/images/traffic_cam.png"
     content: lorpesm ipsm
     button:
-      enable: true
+      enable: false
     image: "/images/traffic_cam.png"
   - image: "/images/coe.png"
     title: "/images/coe.png"
