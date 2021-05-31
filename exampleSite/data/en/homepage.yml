@@ -23,8 +23,7 @@ features:
     content: Find nearest parking/charging area near you!
   - title: PH/Sun Parking
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Wondering if this carpark has free PH/Sun parking? It's on Parkar!
   - title: Favourite Charging/Parking Slots
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
