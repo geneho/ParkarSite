@@ -87,7 +87,7 @@ about_product:
     title: "/images/coe.png"
     content: lorpsm isum
     button:
-      enable: true
+      enable: false
 products:
   enable: false
   title: Checkout Our All Products
