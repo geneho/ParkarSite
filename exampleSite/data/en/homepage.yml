@@ -20,8 +20,7 @@ features:
   left_side:
   - title: Nearest Parking/Charging
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Find nearest parking/charging area near you!
   - title: PH/Sun Parking
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
