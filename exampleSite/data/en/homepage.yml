@@ -37,8 +37,8 @@ features:
       plug type available on Parkar.
   - title: Up To Date
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Parking and charging stations updated constantly to provide you with
+      the latest locations!
 promo:
   enable: true
   image: "/images/patnership.jpg"
