@@ -82,8 +82,9 @@ about_product:
       enable: false
     image: "/images/traffic_cam.png"
   - image: "/images/coe.png"
-    title: "/images/coe.png"
-    content: lorpsm isum
+    title: COE information and history
+    content: 'Certificate of entitlement (COE) prices for all motor vehicles category
+      all available on Parkar! '
     button:
       enable: false
 products:
