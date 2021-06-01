@@ -75,8 +75,9 @@ about_product:
       associated to the search term!
     button:
       enable: false
-  - title: "/images/traffic_cam.png"
-    content: lorpesm ipsm
+  - title: Real time traffic conditions
+    content: Heading out? Parkar allows you to see real time traffic conditions in
+      major expressways/highways around Singapore!
     button:
       enable: false
     image: "/images/traffic_cam.png"
