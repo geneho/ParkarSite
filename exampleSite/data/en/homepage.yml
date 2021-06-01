@@ -70,8 +70,9 @@ about_product:
       label: Check Features
       link: "#"
   - image: "/images/search.png"
-    title: Lorem ipsum dolor sit amet.
-    content: Lorepsm Ipsum
+    title: Improved Search
+    content: Try keying a generic town name and you will be able to see locations
+      associated to the search term!
     button:
       enable: false
   - title: "/images/traffic_cam.png"
