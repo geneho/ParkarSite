@@ -52,10 +52,9 @@ about_product:
   title: Parkar Features
   items:
   - image: "/images/hdb.png"
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    title: 'Carpark information with real time lots availability '
+    content: Wondering if the HDB carpark has lots? Parkar allows you to see real
+      time lots availability from the app itself!
     button:
       enable: false
       label: Check Features
