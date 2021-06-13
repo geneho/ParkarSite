@@ -36,10 +36,10 @@ features:
     icon: tf-ion-ios-bell-outline
     content: Type 2/Type 1/J1772? We got you covered. Charge station with specific
       plug type available on Parkar.
-  - title: Up To Date
+  - title: Fuel Price Watch
     icon: tf-ion-ios-cart-outline
-    content: Parking and charging stations updated constantly to provide you with
-      the latest locations!
+    content: Check back for updates on fuel pricing across petrol stations, so you
+      can quickly pump petrol when it's cheap!
 promo:
   enable: true
   image: "/images/patnership.jpg"
