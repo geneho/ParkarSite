@@ -54,10 +54,10 @@ about_product:
   items:
   - image: "/images/hdb.png"
     title: 'Carpark information with real time lots availability '
-    content: Wondering if the HDB carpark have lots? Parkar allows you to see real
-      time lots availability from the app itself! Carpark information like carpark
-      height limit, PH/Sun free parking are also available! You are also able to see
-      mall lots availability for selected malls too!
+    content: Carpark got lots? How much? Where to get free parking? Parkar shows you
+      lots available based on real-time data! Carpark information such as parking
+      charges, free parking timings and height limit are also available! You will
+      also be able to check on the availability of carparks at selected shopping malls.
     button:
       enable: false
       label: Check Features
