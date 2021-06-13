@@ -92,7 +92,7 @@ products:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
+  title: Get Parkar Updates
   content: Sign up to our mailing list to get first dibs on the latest news from Parkar.
   placeholder: Your Email Address Here
 testimonial:
