@@ -18,9 +18,10 @@ features:
   title: Our Core Features
   image: "/images/comparison.PNG"
   left_side:
-  - title: Nearest Parking/Charging
+  - title: Nearest, Cheapest Parking/Charging
     icon: tf-ion-ios-alarm-outline
-    content: Find nearest parking/charging area near you!
+    content: Find the nearest and cheapest parking/charging points near you! Colour
+      coded for ease of use.
   - title: PH/Sun Parking
     icon: tf-ion-ios-bell-outline
     content: Wondering if this carpark has free PH/Sun parking? It's on Parkar!
