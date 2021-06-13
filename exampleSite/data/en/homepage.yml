@@ -44,11 +44,8 @@ features:
 promo:
   enable: true
   image: "/images/patnership.jpg"
-  title: 'Partnerships/Collaboration '
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: Contact Us
+  content: Drop us an email at hello@parkar.asia!
 about_product:
   enable: true
   title: Parkar Features
