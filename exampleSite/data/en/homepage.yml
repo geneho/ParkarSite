@@ -77,7 +77,7 @@ about_product:
     button:
       enable: false
   - title: Real time traffic conditions
-    content: Heading out? Parkar allows you to see real time traffic conditions in
+    content: Heading out? Parkar allows you to see real time traffic conditions on
       major expressways/highways around Singapore!
     button:
       enable: false
