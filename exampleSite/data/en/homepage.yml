@@ -97,21 +97,21 @@ subscription:
   placeholder: Your Email Address Here
 testimonial:
   enable: true
-  title: Watch Review
+  title: What Parkar Users Are Saying
   testimonial_item:
   - name: Shiorix
-    designation: AppStore
-    image: images/avater.png
+    designation: ''
+    image: ''
     content: Now I can find where to park in town easier, simple and easy to use.
       Parents can look at traffic before heading out too! Highly recommend.
   - name: Heyhohey
-    designation: PlayStore Review
-    image: images/avater.png
+    designation: ''
+    image: ''
     content: Fantastic app, extremely convenient when I'm on the road and can't find
       a parking space. I love that it even lets the user know how much the parking
       fees are so a quick cross comparison can be made. Keep up the great work!
   - name: Jason the angry dad
-    designation: Play Review
-    image: images/avater.png
+    designation: ''
+    image: ''
     content: Woah! Im blown off by this app. Now I can easily find the cheapest parking
       area in town.
