@@ -29,9 +29,10 @@ features:
     icon: tf-ion-ios-cart-outline
     content: Frequently used charging/parking location? Save it!
   right_side:
-  - title: Pricing and Information
+  - title: Parking Calculator, Pricing and Information
     icon: tf-ion-ios-alarm-outline
-    content: Parking and charging prices on your fingertips!
+    content: Sit back and relax la, we do the math for you. Get parking and charging
+      prices at your fingertips!
   - title: Plug Type
     icon: tf-ion-ios-bell-outline
     content: Type 2/Type 1/J1772? We got you covered. Charge station with specific
