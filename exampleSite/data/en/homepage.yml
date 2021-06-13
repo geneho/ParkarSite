@@ -84,8 +84,9 @@ about_product:
     image: "/images/traffic_cam.png"
   - image: "/images/coe.png"
     title: COE information and history
-    content: 'Certificate of entitlement (COE) prices for all motor vehicles categories
-      all available on Parkar! '
+    content: 'How much is Certificate of entitlement (COE) now? Did it go up or down?
+      Should I renew my COE now? COE prices and charts for all motor vehicles categories
+      are available on Parkar! '
     button:
       enable: false
 products:
