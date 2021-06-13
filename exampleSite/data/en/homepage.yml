@@ -93,7 +93,7 @@ subscription:
   enable: true
   bg_image: images/call-to-action.jpg
   title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  content: Sign up to our mailing list to get first dibs on the latest news from Parkar.
   placeholder: Your Email Address Here
 testimonial:
   enable: true
