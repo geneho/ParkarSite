@@ -11,7 +11,8 @@ banner:
     Parkar has it all! \n\nDownload the Parkar App - available on the Apple Store
     and Google Play. \n\n
     <a href='https://play.google.com/store/apps/details?id=com.buka.rac&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
-    <a href='https://apps.apple.com/sg/app/parkar-find-park-and-charge/id1545140533?itsct=apps_box_badge&amp;itscg=30200' style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1615334400&h=02ef141b299b33f78cb5de01ba39252b" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>"
+    <a href='https://apps.apple.com/sg/app/parkar-find-park-and-charge/id1545140533?itsct=apps_box_badge&amp;itscg=30200' style='display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;'><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1615334400&h=02ef141b299b33f78cb5de01ba39252b" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;'></a>
+    "
   image: "/images/webp-net-resizeimage-1.png"
   button:
     enable: false
