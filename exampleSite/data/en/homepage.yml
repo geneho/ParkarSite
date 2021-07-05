@@ -114,12 +114,12 @@ testimonial:
       Parents can look at traffic before heading out too! Highly recommend.
   - name: Heyhohey
     designation: ''
-    image: ''
+    image: "/images/transparent.png"
     content: Fantastic app, extremely convenient when I'm on the road and can't find
       a parking space. I love that it even lets the user know how much the parking
       fees are so a quick cross comparison can be made. Keep up the great work!
   - name: Jason the angry dad
     designation: ''
-    image: ''
+    image: "/images/transparent.png"
     content: Woah! Im blown off by this app. Now I can easily find the cheapest parking
       area in town.
