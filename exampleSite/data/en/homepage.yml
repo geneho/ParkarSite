@@ -48,7 +48,7 @@ features:
     content: Check back for updates on fuel pricing across petrol stations, so you
       can quickly pump petrol when it's cheap!
 promo:
-  enable: true
+  enable: false
   image: "/images/patnership.jpg"
   title: Contact Us
   content: Drop us an email at hello@parkar.asia!
