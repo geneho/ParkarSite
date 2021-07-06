@@ -6,7 +6,7 @@ theme = "vex-hugo"
 title = "Parkar"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "© 2021 Parkar"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
