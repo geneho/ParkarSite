@@ -25,7 +25,12 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Review"
+name = "Features"
+pre = "#"
+url = "features"
+weight = 2
+[[menu.main]]
+name = "Reviews"
 pre = "#"
 url = "testimonial"
 weight = 4
