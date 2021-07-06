@@ -40,7 +40,7 @@ url = "contact"
 weight = 5
 [params]
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/f/xvodqyew"
 currency = "$"
 description = "This is meta description"
 logo = "images/logo.png"
