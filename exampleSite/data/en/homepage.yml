@@ -25,7 +25,7 @@ features:
   image: "/images/comparison.PNG"
   left_side:
   - title: Nearest, Cheapest Parking/Charging
-    icon: tf-ion-ios-alarm-outline
+    icon: tf-ion-android-car
     content: Find the nearest parking/charging points near you! Colour coded so you
       can spot the cheapest options.
   - title: PH/Sun Parking
