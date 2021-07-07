@@ -40,7 +40,7 @@ features:
     content: Sit back and relax la, we do the math for you. Get parking and charging
       prices at your fingertips!
   - title: Plug Type
-    icon: tf-ion-ios-bell-outline
+    icon: tf-ion-battery-charging
     content: Type 2/Type 1/J1772? We got you covered. Charge station with specific
       plug type available on Parkar.
   - title: Fuel Price Watch
