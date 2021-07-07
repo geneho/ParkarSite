@@ -29,7 +29,7 @@ features:
     content: Find the nearest parking/charging points near you! Colour coded so you
       can spot the cheapest options.
   - title: PH/Sun Parking
-    icon: tf-ion-ios-bell-outline
+    icon: tf-ion-happy-outline
     content: Wondering if this carpark has free PH/Sun parking? It's on Parkar!
   - title: Favourite Charging/Parking Slots
     icon: tf-ion-ios-cart-outline
