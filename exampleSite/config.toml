@@ -39,7 +39,7 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-author = "Themefisher"
+author = ""
 contact_form_action = "https://formspree.io/f/xvodqyew"
 currency = "$"
 description = "MotorKaki SuperApp. Park, Charge, Fuel locations and prices and more "
