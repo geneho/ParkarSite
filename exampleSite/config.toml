@@ -1,6 +1,6 @@
 baseurl = "https://parkar.asia/"
 disableLanguages = []
-googleAnalytics = ""
+googleAnalytics = "G-HF21KJYLZ3"
 summarylength = "20"
 theme = "vex-hugo"
 title = "Parkar"
@@ -42,7 +42,7 @@ weight = 5
 author = "Parkar SG"
 contact_form_action = "https://formspree.io/f/xvodqyew"
 currency = "$"
-description = "MotorKaki SuperApp. Park, Charge, Fuel prices and more "
+description = "Your everyday parking app to help you find nearest & cheapest parking, fuel prices and more!"
 logo = "images/logo.png"
 logo_width = "100px"
 [[params.plugins.css]]
