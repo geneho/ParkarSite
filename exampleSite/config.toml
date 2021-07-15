@@ -1,6 +1,6 @@
 baseurl = "https://parkar.asia/"
 disableLanguages = []
-googleAnalytics = ""
+googleAnalytics = "G-HF21KJYLZ3"
 summarylength = "20"
 theme = "vex-hugo"
 title = "Parkar"
