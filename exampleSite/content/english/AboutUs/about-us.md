@@ -1,7 +1,7 @@
 +++
 date = ""
 description = "About Us Page"
-image = "/images/webp-net-resizeimage.png"
+image = "/images/webp-net-resizeimage-1.png"
 title = "About Us"
 [menu.footer]
 weight = 3
