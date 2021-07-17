@@ -10,7 +10,7 @@ weight = 3
 +++
 Parkar is built and maintained by 5 passionate millennials.
 
-In the business domain, we have **M** spearheading our business direction and partnerships. **M** makes sure that while we are passionate about what we do, we are doing it for to allow Parkar to be here in the long run!
+In the business domain, we have **M** spearheading our business direction and partnerships. **M** makes sure that while we are passionate about what we do, we are also doing it to allow Parkar to be here in the long run!
 
 In the UI/UX domain, we have **C** painting the visuals and overall look and feel the app, making sure that the app looks good on everyone's device. **C** ensures that the app is innovative and immersive and most importantly,  brings positive sentiments to everyone.
 
