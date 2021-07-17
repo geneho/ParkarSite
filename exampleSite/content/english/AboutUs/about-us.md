@@ -1,7 +1,6 @@
 +++
 date = ""
 description = "About Us Page"
-draft = true
 image = ""
 title = "About Us"
 [menu.footer]
