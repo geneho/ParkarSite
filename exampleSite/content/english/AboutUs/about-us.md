@@ -17,4 +17,4 @@ Everyone has a role to play in **#TeamParkar** and we can't wait to show you wha
 
 Finally, we hope that Parkar will bring about a better driving community for everyone in Singapore and to do that, it would be awesome if you can be part of it.
 
-If you have any feedback or wish to collaborate, do drop us an email at hello@parkar.asia or fill up the Googlesheets form and we will get back to you ASAP!
+If you have any feedback or wish to collaborate, do drop us an email at hello@parkar.asia or fill up the [Googlesheets form](https://docs.google.com/forms/d/e/1FAIpQLSc4A4KyNCsk1n9ofCgluar021Az-z6myLl0Vuq-z25iZvE_6w/viewform) and we will get back to you ASAP!
