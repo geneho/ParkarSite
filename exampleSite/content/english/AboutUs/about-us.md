@@ -4,6 +4,8 @@ description = "About Us Page"
 draft = true
 image = ""
 title = "About Us"
+[menu.footer]
+weight = 3
 
 +++
 Parkar is built and maintained by 5 passionate millennials.

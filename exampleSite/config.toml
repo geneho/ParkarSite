@@ -13,31 +13,31 @@ weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Contact"
-url = "contact"
-weight = 2
-[[menu.footer]]
 name = "Privacy Policy"
 url = "privacy-policy"
-weight = 4
-[[menu.main]]
-name = "Home"
-url = "/"
+weight = 2
+[[menu.footer]]
+name = "Contact"
+url = "contact"
 weight = 1
+[[menu.main]]
+name = "Reviews"
+pre = "#"
+url = "testimonial"
+weight = 3
 [[menu.main]]
 name = "Features"
 pre = "#"
 url = "features"
 weight = 2
 [[menu.main]]
-name = "Reviews"
-pre = "#"
-url = "testimonial"
-weight = 4
-[[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 5
+weight = 4
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [params]
 author = "Parkar SG"
 contact_form_action = "https://formspree.io/f/xvodqyew"
