@@ -1,6 +1,6 @@
 +++
 description = "About Us Page"
-title = "About Us"
+title = "team"
 [menu.footer]
 weight = 3
 
