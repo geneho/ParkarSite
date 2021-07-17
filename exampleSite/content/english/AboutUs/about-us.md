@@ -1,7 +1,5 @@
 +++
-date = ""
 description = "About Us Page"
-image = ""
 title = "About Us"
 [menu.footer]
 weight = 3
