@@ -23,7 +23,7 @@ banner:
 features:
   enable: true
   title: Our Core Features
-  image: "/images/comparison.PNG"
+  image: "/images/comparisonv2.png"
   left_side:
   - title: Nearest, Cheapest Parking/Charging
     icon: tf-ion-android-car
