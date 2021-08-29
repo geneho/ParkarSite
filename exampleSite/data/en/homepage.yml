@@ -77,9 +77,9 @@ about_product:
       link: "#"
   - image: "/images/fuel.png"
     title: Fuel Prices
-    content: Parkar gathers fuel prices from all leading Singapore fuel kiosks and
-      displays it on a easy-to-read list. This also ensures Parkar Kakis have up to
-      date information on the fuel prices across the sunny island!
+    content: Parkar gathers fuel prices from leading Singapore fuel kiosks so that
+      our fellow kakis have up to date information on the fuel prices across the sunny
+      island!
     button:
       enable: false
   - title: Real time traffic conditions
