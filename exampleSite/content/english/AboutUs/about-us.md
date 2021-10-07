@@ -11,7 +11,7 @@ In the business domain, we have **M** spearheading our business direction and pa
 
 In the UI/UX domain, we have **C** painting the visuals and designing the app's overall aesthetics and behaviour to fit well on everyone’s device. **C** ensures that the app is innovative and immersive and most importantly,  brings positive sentiments to everyone.
 
-In the tech domain, we have **J**, **H** and **G** breathing life into the app. Once the layout and feature details has been finalised, the tech guys will be the one developing the features and making it work!
+In the tech domain, we have **J** and **G** breathing life into the app. Once the layout and feature details has been finalised, the tech guys will be the one developing the features and making it work!
 
 Everyone has a role to play in **#TeamParkar** and we can't wait to show you what we have in store!
 
